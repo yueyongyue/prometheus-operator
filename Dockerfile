@@ -1,1 +1,1 @@
-FROM quay.io/coreos/prometheus-operator:v0.23.1
+FROM  k8s.gcr.io/metrics-server-amd64:v0.3.1
