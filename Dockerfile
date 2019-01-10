@@ -1,1 +1,1 @@
-FROM  k8s.gcr.io/metrics-server-amd64:v0.3.1
+FROM  quay.io/coreos/k8s-prometheus-adapter-amd64:v0.2.0
